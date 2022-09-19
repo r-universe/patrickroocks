@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "listcompr",
+    "oncran": true
+  }
+]
