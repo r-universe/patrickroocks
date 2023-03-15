@@ -2,5 +2,9 @@
   {
     "package": "listcompr",
     "oncran": true
+  },
+  {
+    "package": "rPref",
+    "oncran": true
   }
 ]

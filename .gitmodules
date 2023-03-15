@@ -8,3 +8,8 @@
 	url = https://github.com/patrickroocks/listcompr
 	shallow = true
 	registered = true
+[submodule "rPref"]
+	path = rPref
+	url = https://github.com/patrickroocks/rpref
+	shallow = true
+	registered = true
